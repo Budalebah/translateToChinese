@@ -2,6 +2,15 @@
 Translate a web page into Chinese using Puppeteer
 
 
+Copy code
+
+```bash
+
+npm install translate-puppeteer
+
+```
+
+```
 const translateToChinese = require('translate-puppeteer');
 
 async function main() {
@@ -17,3 +26,5 @@ async function main() {
 }
 
 main();
+
+```
