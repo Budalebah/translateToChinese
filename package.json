@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "budavlebac",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "translate-puppeteer": "^1.0.2"
+  }
 }
